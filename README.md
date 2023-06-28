@@ -1,8 +1,12 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://www.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_18719376.htm)
+
 
 <h1 align="center">Hi 👋, I'm Hashini Kaviska</h1>
 <h3 align="center">I am an exploratory learner</h3>
-<img align="right" alt="Coding" width="400" src="https://www.behance.net/gallery/116770475/Animated-illustrations">
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+
+<!-- Rest of your code -->
+
 
 - 🌱 I’m currently learning **front-end web development, UI/UX**
 
