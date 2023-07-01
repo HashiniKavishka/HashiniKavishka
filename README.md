@@ -10,16 +10,15 @@
 
 - 🌱 I’m currently learning I’m reading for IT & Management Degree.
 
-
-- 👩‍💻 All of my projects are available at <a href="https://github.com/kosala509?tab=repositories">HERE!</a></p>
-
+- 👩‍💻 All of my projects are available at <a href="https://github.com/HashiniKavishka?tab=repositories">HERE!</a></p>
 
 - 📝 I regularly write articles on <a href="https://vhashini55.medium.com/" rel="nofollow">medium.com</a>
-- 💬 Ask me about **Ask me about Java, C, React.js, and Node.js.**
 
-- 📫 How to reach me **How to reach me hashinikaviskavitharana@gmail.com**
+- 💬 Ask me about *Ask me about Java, C, React.js, and Node.js.*
 
-- ⚡ Fun fact **Fun fact I think I am Funny**
+- 📫 How to reach me *How to reach me hashinikaviskavitharana@gmail.com*
+
+- ⚡ Fun fact *Fun fact I think I am Funny*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
