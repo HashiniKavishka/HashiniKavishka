@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Hashini Kaviska</h1>
 <h3 align="center">I am an exploratory learner</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/92366f0dd7da9e6314a00fe77b48706c3aaa4916de7f82250aecaf3194a696d9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f72716439523379614479313661386b4443312f67697068792e676966"
+<img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie/female-web-developer-8721170"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashinikavishka&label=Profile%20views&color=0e75b6&style=flat" alt="hashinikavishka" /> </p>
 
